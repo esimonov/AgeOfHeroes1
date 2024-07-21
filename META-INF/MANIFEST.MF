@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+MIDlet-1: Age of Heroes, /icon.png, M
+MIDlet-Name: Age of Heroes
+MIDlet-Vendor: RME
+MIDlet-Version: 1.1.0
+MicroEdition-Configuration: CLDC-1.0
+
